@@ -20,3 +20,9 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function pokazdane() {
+    info = "To ja!!!"
+    navigator.notification.alert(info);
+
+}

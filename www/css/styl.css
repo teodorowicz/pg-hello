@@ -1,0 +1,11 @@
+ button, input {
+     background-color: #00ff90;
+     width: 80%;
+     height: auto;
+     font-size:20px;
+ }
+
+ body {
+     background-color: beige;
+     margin: 20px 20px 20px 20px;
+ }
